@@ -1,0 +1,81 @@
+h1{ 
+    font-family: "lucida sans unicode";
+    font-size: 32px;
+    font-style: italic;
+    font-weight: bold;
+    color:greenyellow;
+    letter-spacing: 25px;
+    text-decoration: underline;
+    text-transform: uppercase
+}
+p{
+    color: greenyellow;
+    letter-spacing: 3px;
+    word-spacing: 5px;
+    line-height: 20px;
+    background-color: black;
+    font-family:"Lucida Sans Unicode";
+    font-size: 16px;
+    text-indent: 20px;
+    padding: 50px;
+    text-align: justify;
+}
+body{
+    background-color: black;
+}
+p2 {
+    color: greenyellow;
+    font-family: "lucida Sans Unicode";
+    letter-spacing: 3px;
+    word-spacing: 5px;
+    line-height: 20px;
+    font-size: 16px;
+    padding:50px;
+    text-align: justify;
+}
+h2{
+    color: greenyellow;
+    text-align: left;
+    padding-top:5px;
+  padding-right:5px;
+  padding-bottom:10px;
+  padding-left:5px;
+  font-style: italic;
+  font-family: "lucida Sans Unicode";
+  padding: 20px 20px 20px 20px;
+  border: 5px solid #ff0000;
+  text-align: center;
+}
+h3{
+    color: greenyellow;
+    text-align: center;
+    letter-spacing: 3px;
+    word-spacing: 5px;
+    line-height: 20px;
+    font-size: 32px;
+
+}
+p3{ 
+    color: greenyellow;
+}
+header{
+    color: black;
+    background-color: rgb(75, 96, 212);
+    font-size: 64px;
+    font-style: italic;
+    font-weight: bold;
+    font-family: "lucida Sans Unicode";
+    text-align: center;
+}
+a{
+    text-align: center;
+    font-family: "lucida Sans Unicode";
+    font-size: 32px;
+    background-color: blue;
+    color: black;
+    font-style: italic;
+    font-weight: bold;
+    padding:2px;
+    font-weight: bold;
+
+}
